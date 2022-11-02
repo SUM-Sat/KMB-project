@@ -1,3 +1,5 @@
-Name:xxxx
-Age:xxxx
-Phone no:xxxx
+
+Name:XXXX
+Age:XXXX
+Phoneno:XXXX
+>>>>>>> dev-3
